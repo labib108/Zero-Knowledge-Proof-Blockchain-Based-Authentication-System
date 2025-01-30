@@ -1,0 +1,12 @@
+1,1,0,main.verified
+2,-1,0,main.nameHash
+3,-1,0,main.age
+4,-1,0,main.diagnosisCode
+5,-1,0,main.problemType
+6,-1,0,main.verificationKey
+7,2,0,main.ageCheck
+8,3,0,main.diagnosisCheck
+9,4,0,main.problemTypeCheck
+10,5,0,main.nameCheck
+11,6,0,main.partialVerification1
+12,7,0,main.partialVerification2
